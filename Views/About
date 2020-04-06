@@ -1,0 +1,16 @@
+@{
+    ViewData["Title"] = "About";
+}
+<h1>About Us</h1>
+<img src="~/images/v.jpg" width="1150" height="450"/> <br /><br />
+<p>It’s a familiar sight isn’t it? Women haggling with sabzi waalas, vegetables burning up in the sun,
+    flies buzzing around and rates keep going up and down like it’s the stock market.
+    Well, that ghastly visage is a thing of the past now. Say hi to TheFoodStaple.
+    The name says it all.
+    We got all the green and juicy that you need.
+    From exotic vegetables like Zucchini, Pak Choi, LoloRoso to imported fruits like Kiwi, Dragonfruit 
+    and Rambutan as well as run of the mill veggies such as carrots, radishes, brinjals, potatoes etc . 
+    And it’s our guarantee, no one else can beat our prices, because there are no middlemen here, 
+    it’s straight from the distributor’s basket.
+    Don’t worry about the freshness or quality either, we deliver only the freshest of vegetables and fruites.</p>
+
