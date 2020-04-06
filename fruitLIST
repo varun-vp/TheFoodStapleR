@@ -1,0 +1,16 @@
+<html>
+
+<head>
+	<title> Lists of fruits </title>
+</head>
+
+<body>
+	<ol>
+		<li>Mango</li>
+		<li>Banana</li>
+		<li>Orange</li>
+		<li>Apple</li>
+	</ol>
+</body>
+
+</html>
